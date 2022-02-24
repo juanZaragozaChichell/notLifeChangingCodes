@@ -1,2 +1,3 @@
 # notLifeChangingCodes
-Codes of different stuff that I have made and think that it is fun
+This repository acts as portfoolio. You can find here different codes I've made that are intended either to facilitate my daily routine or just because.
+Hope you find something interesting.
